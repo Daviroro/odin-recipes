@@ -4,7 +4,7 @@ It is just HTML
 			
 It is a Recipes website			
 						
-By building it i am showingX the skills i have learnt so far through the 
+By building it i am showingthe skills i have learnt so far through the 
 course
 
 I will check back in here for some reflection once i am done
